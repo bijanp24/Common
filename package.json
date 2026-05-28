@@ -1,0 +1,16 @@
+{
+  "name": "@bijanp24/common",
+  "version": "0.1.0",
+  "description": "Shared styling tokens for Bijan Pourazari sites.",
+  "license": "UNLICENSED",
+  "private": false,
+  "files": [
+    "styles",
+    "tokens.json",
+    "README.md"
+  ],
+  "exports": {
+    "./styles/theme.css": "./styles/theme.css",
+    "./tokens.json": "./tokens.json"
+  }
+}
